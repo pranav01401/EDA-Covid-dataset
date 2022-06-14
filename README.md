@@ -17,7 +17,7 @@ Analysing the covid dataset and using the python libraries to derive insights
 
 ### Topics covered in this project are :
 
-  1. Data Exctraction
+  1. Data Extraction
   2. Data Cleaning and Prepartion
   3. Data Manipulation and Transformation
   4. Data Exploration and Analysis
