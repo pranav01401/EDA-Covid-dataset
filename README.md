@@ -2,19 +2,14 @@
 Analysing the covid dataset and using the python libraries to derive insights
 ## PROBLEM STATEMENT: The Department of Health & Family Welfare(Govt. of India) has to put out a report showing the numbers regarding the spread of covid in India and the vaccination drive undertaken by the Govt. of India. The report should also answer a list of questions which has to be submitted to the Prime Ministers Office.  
 
-  1. Which are the top 10 states having highest number of confirmed cases of covid?
-  2. Which States had the highest number of deaths due to covid?
-  3. Which states had the highest Mortality Rates ?
-  4. Which states had the highest Recovery Rates?
-  5. How was the trend of covid spread in the top 5 most affected states? When did these states achieve their respective peaks?
-  6. How was the pan India trend of covid spread?
-  7. Which brand of vaccine has been administered the most and what is the brand wise distribution of the total vaccine doses administered?
-  8. How was the gender wise distribution of the vaccine across India?
-  9. Which are the top 10 states having the highest number of doses administered to their citizens?
-  10.How was the vaccination trend in the top 5 most vaccinated states (acc to number of doses administered)?
-  11.Which are top 10 states with most number of individuals vaccinated?
-  12.Which are top 10 states with least number of individuals vaccinated?
-  13.Insights from your analysis will be used by the government to formulate new policies and take data-driven decisions to mitigate the effects of covid . You must be    able to back your insights using data and give a detailed explanation for your findings.
+ 1. Number of active cases
+ 2. Statewise Mortality and Recovery rates
+ 3. States with maximum no. of active cases
+ 4. States with minimum no. of active cases
+ 5. Growth trend in 5 states with maximum active users.
+ 6. Male vs Female vaccination
+ 7. Top 5 most vaccinated states
+ 8. Top 5 least vaccinated states
 
  ## DATASETS USED IS FROM 2020-2021: covid_19_india, covid_vaccine_statewise
 
